@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><newRootElementName>
+    <periodical id="5">
+        <title>Times</title>
+        <type id_type="2">
+            <name>newspaper</name>
+            <glossy>true</glossy>
+        </type>
+        <monthly>true</monthly>
+        <color>colored</color>
+        <pages>20</pages>
+        <index>12348</index>
+
+    </periodical>
+    <periodical id="6">
+        <title>OOO Bader</title>
+        <type id_type="3">
+            <name>booklet</name>
+            <glossy>false</glossy>
+        </type>
+        <monthly>false</monthly>
+        <color>not colored</color>
+        <pages>50</pages>
+        <index>00000</index>
+
+    </periodical>
+    <periodical id="7">
+        <title>Sky Sports</title>
+        <type id_type="1">
+            <name>journal</name>
+            <glossy>true</glossy>
+        </type>
+
+        <monthly>false</monthly>
+        <color>colored</color>
+        <pages>15</pages>
+        <index>12999</index>
+    </periodical>
+    <periodical id="8">
+        <title>BBC</title>
+        <type id_type="2">
+            <name>newspaper</name>
+            <glossy>true</glossy>
+        </type>
+
+        <monthly>false</monthly>
+        <color>colored</color>
+        <pages>17</pages>
+        <index>12990</index>
+    </periodical>
+</newRootElementName>
